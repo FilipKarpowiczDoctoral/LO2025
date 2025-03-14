@@ -1,0 +1,2 @@
+# Połącz wszytkie pliki o rozszerzeniu .fas w jeden
+type *.fas > Merged.fasta
